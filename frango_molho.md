@@ -23,6 +23,21 @@
 - 1/2 colher de chá de alecrim
 - 1/2 colher de chá de pimenta do reino
 
+### Shoyu
+- 1 colher de shoyu
+- 1/2 colher de gengibre ralado
+- 1/2 colher sob. de alecrim
+- 1/2 colher sob. azeite
+- 1 dente de alho espremido
+- marine por mais tempo
+
+### Mostarda & Mel
+- mostarda
+- mel
+
+### Leite de coco
+
+
 ## Preparo
 
 ### Molho
@@ -31,7 +46,7 @@
 ### Frango (na fryer)
 - passe o frango no molho
 - preaquecer a fryer por 3min 180c
-- aquecer 10-15min 200c
+- aquecer 15-20min 200c, vire na metade
 
 #### Adicionais
 - Pode preferir virar o frango perto dos minutos finais
