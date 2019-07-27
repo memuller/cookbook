@@ -9,7 +9,6 @@
 - 1/2 colher sob. alecrim
 - 1/2 colher sob. páprica doce
 - 1 colher salsinha
-- 1 colher amido de milho
 - 1/2 colher sob. amido de milho
 - 1/2 colher sob. açúcar
 - 1/2 colher sob. azeite
@@ -22,6 +21,7 @@
 - 1 colher de chá de páprica picante (se páprica comum, complemente com calabresa seca ou outra pimenta similar)
 - 1/2 colher de chá de alecrim
 - 1/2 colher de chá de pimenta do reino
+- 1/2 colher sob. amido de milho
 
 ### Shoyu
 - 1 colher de shoyu
@@ -36,6 +36,11 @@
 - mel
 
 ### Leite de coco
+- 2 colheres de leite de coco
+- 1/2 colher sob. amido de milho
+- 1/2 colher sob. de alecrim
+- 1 colher sob. de salsinha
+- 1 colher sob. de cebolinha
 
 
 ## Preparo
